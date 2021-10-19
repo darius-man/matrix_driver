@@ -20,3 +20,4 @@ More details in the full documentation.
 
 Installation
 The driver does not need any external libraries simply include the header of the needed type of matrix.
+Each time a matrix type is needed the header file will be included.
