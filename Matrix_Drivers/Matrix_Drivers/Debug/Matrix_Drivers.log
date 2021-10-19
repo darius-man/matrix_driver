@@ -1,0 +1,13 @@
+﻿  main.cpp
+  PrintingEquation.cpp
+c:\users\man2clj\desktop\visual studio\matrix_drivers_v7\matrix_drivers\printingequation.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\man2clj\desktop\visual studio\matrix_drivers_v7\matrix_drivers\printingequation.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\man2clj\desktop\visual studio\matrix_drivers_v7\matrix_drivers\printingequation.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\man2clj\desktop\visual studio\matrix_drivers_v7\matrix_drivers\printingequation.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\man2clj\desktop\visual studio\matrix_drivers_v7\matrix_drivers\printingequation.cpp(226): warning C4018: '<': signed/unsigned mismatch
+c:\users\man2clj\desktop\visual studio\matrix_drivers_v7\matrix_drivers\printingequation.cpp(244): warning C4018: '<': signed/unsigned mismatch
+c:\users\man2clj\desktop\visual studio\matrix_drivers_v7\matrix_drivers\printingequation.cpp(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\man2clj\desktop\visual studio\matrix_drivers_v7\matrix_drivers\printingequation.cpp(266): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Matrix_Drivers.vcxproj -> C:\Users\MAN2CLJ\Desktop\Visual Studio\Matrix_Drivers_v7\Debug\Matrix_Drivers.exe
+  Matrix_Drivers.vcxproj -> C:\Users\MAN2CLJ\Desktop\Visual Studio\Matrix_Drivers_v7\Debug\Matrix_Drivers.pdb (Partial PDB)
